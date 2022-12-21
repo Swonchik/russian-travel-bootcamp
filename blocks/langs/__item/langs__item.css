@@ -1,0 +1,7 @@
+.langs__item {
+  border-bottom: 2px solid #fff;
+}
+
+.langs__item:last-of-type {
+  border: none;
+}

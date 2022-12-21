@@ -1,0 +1,22 @@
+.lead__container {
+  max-width: 984px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 92px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1024px) {
+  .lead__container {
+    max-width: 928px;
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
+
+@media (max-width: 768px) {
+  .lead__container {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

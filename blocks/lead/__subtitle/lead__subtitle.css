@@ -4,12 +4,12 @@
   font-size: 30px;
   line-height: 36px;
   max-width: 640px;
-  padding-bottom: 64px;
+  margin: 0 auto 64px;
 }
 
 @media (max-width:320px) {
   .lead__subtitle {
-    padding-bottom: 56px;
+    margin-bottom: 56px;
   }
 }
 
@@ -18,8 +18,8 @@
     max-width: 288px;
     font-size: 16px;
     line-height: 20px;
-    padding-left: 16px;
-    padding-right: 16px;
-    padding-bottom: 40px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 40px;
   }
 }

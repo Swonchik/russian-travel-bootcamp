@@ -27,11 +27,11 @@
     grid-template-rows: repeat(auto-fit, minmax(264px, 1fr));
     padding-left: 24px;
     padding-right: 24px;
-
+    margin-bottom: 88px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 520px) {
   .photo-grid__container {
     row-gap: 12px;
     column-gap: 0;
@@ -39,5 +39,6 @@
     grid-template-rows: repeat(auto-fit, minmax(216px, 1fr));
     padding-left: 16px;
     padding-right: 16px;
+    margin-bottom: 64px;
   }
 }

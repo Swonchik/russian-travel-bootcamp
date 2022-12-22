@@ -1,15 +1,24 @@
 .cover__container {
   max-width: 1280px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 92px;
   padding: 0 48px;
   box-sizing: border-box;
-  margin-bottom: 92px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1160px) {
   .cover__container {
     padding: 0;
   }
 }
-  
+
+@media (max-width: 1160px) {
+  .cover__container {
+    margin: 0 auto 88px;
+  }
+}
+
+@media (max-width: 520px) {
+  .cover__container {
+    margin: 0 auto 64px;
+  }
+}

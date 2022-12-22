@@ -18,6 +18,7 @@
   .intro__container {
     padding-left: 24px;
     padding-right: 24px;
+    margin-bottom: 88px;
   }
 }
 
@@ -25,5 +26,6 @@
   .intro__container {
     padding-left: 16px;
     padding-right: 16px;
+    margin-bottom: 64px;
   }
 }

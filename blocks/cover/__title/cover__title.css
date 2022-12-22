@@ -9,7 +9,7 @@
   position: relative;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 520px) {
   .cover__title {
     max-width: 288px;
     font-size: 32px;

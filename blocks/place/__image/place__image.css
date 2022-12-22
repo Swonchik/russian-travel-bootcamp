@@ -13,3 +13,9 @@
     max-width: 340px;
   }
 }
+
+@media (max-width: 620px) {
+  .place__image {
+    margin-bottom: 32px;
+  }
+}

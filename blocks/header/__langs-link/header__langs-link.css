@@ -4,7 +4,14 @@
   line-height: 28px;
   text-decoration: none;
   color: currentColor;
+  opacity: 1;
+  transition: ease .5s;
 }
+
+.header__langs-link:hover {
+  opacity: 0.8;
+}
+
 
 .header__langs-link:last-of-type {
   border: none;

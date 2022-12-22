@@ -7,7 +7,6 @@
   padding-right: 48px;
   box-sizing: border-box;
   margin-bottom: 92px;
-  display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
   gap: 16px;

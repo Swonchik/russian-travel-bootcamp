@@ -1,18 +1,17 @@
-.langs__link {
+.header__langs-link {
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;
   text-decoration: none;
   color: currentColor;
-  border-bottom: 2px solid #fff;
 }
 
-.langs__link:last-of-type {
+.header__langs-link:last-of-type {
   border: none;
 }
 
 @media (max-width: 320px) {
-  .langs__link {
+  .header__langs-link {
     font-size: 18px;
     line-height: 20px;
   }

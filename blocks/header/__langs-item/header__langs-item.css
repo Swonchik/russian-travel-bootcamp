@@ -1,0 +1,7 @@
+.header__langs-item {
+  border-bottom: 2px solid #fff;
+}
+
+.header__langs-item:last-of-type {
+  border: none;
+}

@@ -28,8 +28,6 @@
 
 @media (max-width: 520px) {
   .lead__container {
-    margin-left: 0;
-    margin-right: 0;
     margin-bottom: 64px;
   }
 }

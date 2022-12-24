@@ -5,7 +5,7 @@
   gap: 12px;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 670px) {
   .place__website {
     align-self: auto;
     margin: 0 16px 32px;

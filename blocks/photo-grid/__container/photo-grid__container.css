@@ -33,9 +33,6 @@
 
 @media (max-width: 520px) {
   .photo-grid__container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     row-gap: 12px;
     column-gap: 0;
     grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
